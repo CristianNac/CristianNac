@@ -1,24 +1,41 @@
-# ¡Hola, soy Cristian Orellana! 👋
+<h1 align="center">¡Hola, soy Cristian Orellana! 👋</h1>
 
-Soy un apasionado de la Ciencia de Datos, especializado en la elaboración de modelos predictivos, análisis de datos y visualización. Me encanta trabajar con datos para extraer información valiosa y ayudar a las organizaciones a tomar decisiones informadas. 📊
+<p align="center">
+  <b>Data Scientist&nbsp;• MLOps&nbsp;Enthusiast&nbsp;• Cloud&nbsp;Practicante (AWS & GCP)</b><br>
+  🇨🇱 Chile · 🐍 Pythonista · 📈 Apasionado por convertir datos en decisiones
+</p>
 
-## Tecnologías que utilizo 💻
-- **Lenguajes**: Python, R
-- **Herramientas**: Power BI, Excel, SQL
-- **Librerías de Python**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras, TensorFlow
-- **Certificación**: AWS Cloud Practitioner ☁️
+---
 
-## Proyectos destacados 🚀
-- [Clasificación de Imágenes de Ropa](https://github.com/CristianNac/Keras_Clothes_Classifier): Proyecto utilizando TensorFlow con un conjunto de datos de 10 tipos de prendas en blanco y negro.
-- [Clasificación de Pobreza de la Encuesta CASEN](https://github.com/CristianNac/SocioEconomicClassifier): Análisis para clasificar la pobreza a partir de los datos de la encuesta.
-- [Análisis Exploratorio de Exportaciones Mineras](https://github.com/CristianNac/Exportaciones-mineras-de-Chile): Estudio de las tendencias y patrones en las exportaciones del sector minero.
-- [Limpieza de Datos y Comparación de Fondos E y A de la AFP Hábitat](https://github.com/CristianNac/Razon_Fondo_E_A): Proyecto centrado en la limpieza de datos y análisis comparativo de los fondos de pensiones.
+### ⚒️ Stack & Herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![scikit‑learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 
-## Intereses 🌱
-- Aprendizaje automático
-- Visualización de datos
-- Cloud Computing
-- Deep Learning
+---
 
-## Conéctame 📫
-- [LinkedIn](https://www.linkedin.com/in/cristian-o7/)
+### 🚀 Proyecto principal (en curso)
+| 📁 Repositorio | Descripción breve | Tech |
+|---------------|-------------------|------|
+| [`ETL-EDA-Contratos_Pesca`](https://github.com/CristianNac/ETL-EDA-Contratos_Pesca) | Pipeline **ETL + EDA** sobre contratos laborales en plantas pesqueras. Limpieza → carga en PostgreSQL → análisis exploratorio -> (próximamente) modelo de clasificación con MLflow. | pandas · SQLAlchemy · DVC · GitHub Actions |
+
+> 👉 *Tengo más proyectos en preparación (MLflow, Dash y FastAPI).* Sigue el repo y echa un vistazo al tablero de **Issues / Projects** para ver el roadmap.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianNac&show_icons=true&theme=tokyonight&hide_rank=true" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianNac&layout=compact&theme=tokyonight&langs_count=8" height="140">
+</p>
+
+---
+
+### 🤝 Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian‑o7)
